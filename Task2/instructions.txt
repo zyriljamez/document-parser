@@ -1,0 +1,4 @@
+Write a Python program that can read a folder of word documents and return all the addresses (example docs supplied).
+* The solution should be cleanly written, maintainable, and account for potential edge cases.
+* Note that there are many possible solutions to reading the docs and extracting the addresses, there's no specific correct answer here.
+

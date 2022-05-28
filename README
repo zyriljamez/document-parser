@@ -1,0 +1,8 @@
+Pre requisites
+--------------
+
+pip install openpyxl
+pip install pandas
+
+
+Each task directory has a "solution.py" file with the corresponding solution to the task. 

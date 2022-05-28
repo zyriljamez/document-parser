@@ -1,0 +1,4 @@
+For a the excel files in this folder, write a Python program to read them and then write a new excel containing just the rows that have the cell value "Approved".
+* Design the code to be clean and maintainable, as you would in a real-world scenario
+
+2 dependency
